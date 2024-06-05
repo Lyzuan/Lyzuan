@@ -39,7 +39,7 @@
 <a href="https://codepen.io/Lyzuan-Rodrigues" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Lyzuan-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a> 
-<a href="www.linkedin.com/in/lyzuan-rodrigues-de-almeida-b20936240" target="_blank">
+<a href="www.linkedin.com/in/lyzuan" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Lyzuan-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/lyzuan_rd/"_blank">
