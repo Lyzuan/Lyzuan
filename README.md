@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Lyzuan/06ab75ef13ba1e5842fb7e472c99cf53/raw/6078759e06547ace89bba9138d2a0908905b784e/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lyzuan Rodrigues</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lyzuan&color=yellow" alt="Profile views" /> </p>
 
@@ -39,7 +38,7 @@
 <a href="https://codepen.io/Lyzuan-Rodrigues" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Lyzuan-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a> 
-<a href="www.linkedin.com/in/lyzuan" target="_blank">
+<a href="https://www.linkedin.com/in/lyzuan/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Lyzuan-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/lyzuan_rd/"_blank">
