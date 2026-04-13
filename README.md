@@ -91,3 +91,9 @@ Hi 👋, I'm Lyzuan Rodrigues
 <a href="https://codepen.io/Lyzuan-Rodrigues" target="_blank">
   <img src="https://img.shields.io/badge/-CodePen-0d1117?style=flat&logo=codepen"/>
 </a>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lyzuan/Lyzuan/output/github-contribution-grid-snake-dark.svg" />
+</p>
