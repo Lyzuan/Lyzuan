@@ -1,12 +1,12 @@
 <h1 align="left">
 Hi 👋, I'm Lyzuan Rodrigues
 </h1>
+<img align="right-top" height="200" width="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdnMDhzNWF1d3o4dXF5YXA4emZseGRtM3JwbXh5Y3Y5bmhoNHB3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLhbB86a5nLXy/giphy.gif" />
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&width=600&lines=Fullstack+Developer;Computer+Science+Student;Exploring+Artificial+Intelligence;Building+Real+World+Projects" />
 </p>
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdnMDhzNWF1d3o4dXF5YXA4emZseGRtM3JwbXh5Y3Y5bmhoNHB3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLhbB86a5nLXy/giphy.gif" />
 
 ---
 
